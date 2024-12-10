@@ -35,3 +35,13 @@ out/
 
 ### VS Code ###
 .vscode/
+
+.DS_Store
+
+# yml
+*.yml
+
+*.sql
+
+# bootstrap.yml 파일은 ignore 하지 않음
+!bootstrap.yml
